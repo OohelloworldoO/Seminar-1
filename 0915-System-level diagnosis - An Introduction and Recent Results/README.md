@@ -23,7 +23,8 @@ e.g.
 而 `t` 的大小取決於 graph's dimension  
  `t = Dimension - 1`
 這套方法叫做 _PMC Model: Prepare - Metze - Chien_  
-從直覺可知 faulty node 不可太多，策略才會奏效
+從直覺可知 faulty node 不可太多，策略才會奏效  
+當 Faulty node 太多時，得到的測試結果是 _無效_ 、_不可靠_ 且 _Syndrome_ 的
 
 e.g.  
 這是一個 2-Dimension 的圖例 而它可以容許的 faulty node 是 1-Diagnosable
