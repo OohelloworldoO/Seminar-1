@@ -31,7 +31,7 @@ e.g.
 ![2-dimension](./images/2-dimension%20simple_graph.jpg)  
 圖例來源: [Tutorialspoint - Graph & Graph Models(Discrete Mathematics )](https://www.tutorialspoint.com/discrete_mathematics/graph_and_graph_models.htm)
 
-這是一個 3-Dimension 的圖例 而它可以容許的 Faulty node 是 2-Diagnosable  
+這是一個 3-Dimension 的 Hypercube 而它可以容許的 Faulty node 是 2-Diagnosable  
 ![Tutorialspoint - Graph & Graph Models(Discrete Mathematics )](./images/3-dimension.png)  
 圖例來源: [Figure - available from: Journal of Physics A: Mathematical and Theoretical](https://www.researchgate.net/figure/a-Hamming-cube-for-binary-vectors-of-length-3-b-the-simplex-code-F-2-3_fig1_278047924)
 
