@@ -22,7 +22,7 @@ e.g.
 也就是 _T-diagnosable_  
 而 `t` 的大小取決於 graph's dimension  
  `t = Dimension - 1`
-這套方法叫做 _PMC Model: Prepare - Metze - Chien_  
+這套方法叫做 _PMC Model: Preparata - Metze - Chien_  
 從直覺可知 faulty node 不可太多，策略才會奏效  
 當 Faulty node 太多時，得到的測試結果是 _無效_ 、_不可靠_ 且 _Syndrome_ 的
 
