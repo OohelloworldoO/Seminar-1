@@ -1,8 +1,8 @@
 # Seminar-1
 
-|    Date    |    Speaker    |                            Title                            |                                                                                    Note                                                                                     |
-| :--------: | :-----------: | :---------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| 2026/09/15 |  王大進 教授  | System-level diagnosis - An Introduction and Recent Results | [Note 1 Images](./images/70d7e2f2-f8c8-456e-af77-b8cc35eadf0e.jfif)、[Note .md](./0915-System-level%20diagnosis%20-%20An%20Introduction%20and%20Recent%20Results/README.md) |
+|    Date    |    Speaker    |                            Title                            |                                                                                                             Note                                                                                                              |
+| :--------: | :-----------: | :---------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| 2026/09/15 |  王大進 教授  | System-level diagnosis - An Introduction and Recent Results | [Note 1 Images](./0915-System-level%20diagnosis%20-%20An%20Introduction%20and%20Recent%20Results/images/IMG_9816.JPG)、[Note .md](./0915-System-level%20diagnosis%20-%20An%20Introduction%20and%20Recent%20Results/README.md) |
 | 2026/9/22  |  彭徐鈞 教授  |                                                             |
 | 2026/9/29  |  蕭育仁 教授  |                                                             |
 | 2026/10/6  |  楊勝州 教授  |                                                             |
