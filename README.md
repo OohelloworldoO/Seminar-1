@@ -1,11 +1,11 @@
 # Seminar-1
 
-|    Date    |    Speaker    |                            Title                            |                                                                                                             Note                                                                                                              |
-| :--------: | :-----------: | :---------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| 2026/09/15 |  王大進 教授  | System-level diagnosis - An Introduction and Recent Results | [Note 1 Images](./0915-System-level%20diagnosis%20-%20An%20Introduction%20and%20Recent%20Results/images/IMG_9816.JPG)、[Note .md](./0915-System-level%20diagnosis%20-%20An%20Introduction%20and%20Recent%20Results/README.md) |
-| 2026/9/22  |  彭徐鈞 教授  |                                                             |
-| 2026/9/29  |  蕭育仁 教授  |                                                             |
-| 2026/10/6  |  楊勝州 教授  |                                                             |
-| 2026/10/13 |  卓世朋 教授  |                                                             |
-| 2026/10/20 | 蔣惟丞 副教授 |                                                             |
-| 2026/11/24 |  楊智強 博士  |                                                             |
+|    Date    |    Speaker    |                                                     Title                                                      |                                                                                                             Note                                                                                                              |
+| :--------: | :-----------: | :------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| 2026/09/15 |  王大進 教授  |                          System-level diagnosis - An Introduction and Recent Results                           | [Note 1 Images](./0915-System-level%20diagnosis%20-%20An%20Introduction%20and%20Recent%20Results/images/IMG_9816.JPG)、[Note .md](./0915-System-level%20diagnosis%20-%20An%20Introduction%20and%20Recent%20Results/README.md) |
+| 2026/9/22  |  彭徐鈞 教授  | Using a Deep Learning Model to Predict Postoperative Visual Outcomes of Idiopathic Epiretinal Membrane Surgery |                                                            [Note .md](./0915-System-level%20diagnosis%20-%20An%20Introduction%20and%20Recent%20Results/README.md)                                                             |
+| 2026/9/29  |  蕭育仁 教授  |                                                                                                                |
+| 2026/10/6  |  楊勝州 教授  |                                                                                                                |
+| 2026/10/13 |  卓世朋 教授  |                                                                                                                |
+| 2026/10/20 | 蔣惟丞 副教授 |                                                                                                                |
+| 2026/11/24 |  楊智強 博士  |                                                                                                                |
